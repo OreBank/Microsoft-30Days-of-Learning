@@ -1,7 +1,7 @@
 ## Project Name:
 Analysing the Covid-19 data
 
-## Project Objectives
+# Project Objectives
 
 ## Data Sourcing
 

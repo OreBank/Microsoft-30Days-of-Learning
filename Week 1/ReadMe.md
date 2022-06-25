@@ -38,8 +38,20 @@ When I loaded and applied the dataset into excel, I noticed that there was error
 
 ## Findings
 As at the time and data the analysis was done
--- The total confirmed cases globally was ==> 152951111255
+- The total Confirmed cases globally was ==> 152951111255
 ![image](https://user-images.githubusercontent.com/57878434/175761573-656f41d5-f25c-4016-b331-eb5e224355b7.png)
-
+- The total Death globally was ==> 2671774434
+![image](https://user-images.githubusercontent.com/57878434/175761611-80d9842a-6de0-472a-a3b7-7e7b9396a10d.png)
+- The rate of death was ==> 1.75%
+![image](https://user-images.githubusercontent.com/57878434/175761625-60b21bcf-31df-4d66-95c1-b4efdf9cddae.png)
+- The top 5 countries with highest confirmations of the virus were 
+  -Row Labels	Sum of Confirmed
+   - United Kingdom	5831089189
+   - France	6496860328
+   - Brazil	11996382875
+   - India	17485626840
+   - US	28371865085
+![image](https://user-images.githubusercontent.com/57878434/175761674-f5bd0321-e5cf-4491-a8e4-65978e294daf.png)
+- The least 5 countries affected were 
 
 

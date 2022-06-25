@@ -37,6 +37,7 @@ When I loaded and applied the dataset into excel, I noticed that there was error
 ![EXCEL PIVOTS](https://user-images.githubusercontent.com/57878434/175761881-b2b2aa65-f8ac-45d3-8c57-0b3a38267fa7.jpg)
 
 - The Visualizations were done using the PivotCharts 
+![Vizz](https://user-images.githubusercontent.com/57878434/175762086-a12d7b2c-f349-4247-8fd9-1447d611e118.jpg)
 
 ## Findings
 As at the time and data the analysis was done

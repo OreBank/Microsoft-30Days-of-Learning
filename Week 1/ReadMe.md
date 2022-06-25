@@ -1,11 +1,11 @@
-## Project Name:
+# Project Name
 Analysing the Covid-19 data
 
 # Project Objectives
 
-## Data Sourcing
+# Data Sourcing
 
-## Data Transformation
+# Data Transformation
 
 
 

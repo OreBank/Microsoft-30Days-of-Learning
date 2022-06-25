@@ -16,7 +16,19 @@ The data was sourced from COVID-19 Data Repository by the Center for Systems Sci
 4. In the new dialogue box, click connect to use the data Anonymously
 5. Then, choose Load(to load directly to excel without cleaning or transforming) or Transform (to load to the power query for better cleaning, transformation and editings) as required
 
-# Data Cleaning
+# Data Cleaning and Transformation
+- The data was transformed using Power Query
+- Preliminary data cleaning steps were done
+  - Promoting headers
+  - Changing datatypes where necessary
+  - Unpivoting some columns 
+- The three datasets were merged to give a very robust dataset
+
+## Issues with Dates
+When I loaded and applied the dataset into excel, I noticed that there was errors in my dates columns. This was how i resolved it
+- Click on the Data Tab 
+- Under the Data Tools pane, choose **Text to Columns**
+- The wizard would be launched, choose the file type as Delimited
 
 # Data Transformation
 

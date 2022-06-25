@@ -44,7 +44,7 @@ As at the time and data the analysis was done
 ![image](https://user-images.githubusercontent.com/57878434/175761611-80d9842a-6de0-472a-a3b7-7e7b9396a10d.png)
 - The rate of death was ==> 1.75%
 ![image](https://user-images.githubusercontent.com/57878434/175761625-60b21bcf-31df-4d66-95c1-b4efdf9cddae.png)
-- The top 5 countries with highest confirmations of the virus were 
+- The top 5 countries with highest confirmations of the virus were:
   - Row Labels	Sum of Confirmed
    - United Kingdom	5831089189
    - France	6496860328
@@ -52,6 +52,14 @@ As at the time and data the analysis was done
    - India	17485626840
    - US	28371865085
 ![image](https://user-images.githubusercontent.com/57878434/175761674-f5bd0321-e5cf-4491-a8e4-65978e294daf.png)
-- The least 5 countries affected were 
+- The least 5 countries affected were:
+  - Row Labels	Sum of Confirmed
+      - MS Zaandam	7307
+      - Marshall Islands	3507
+      - Antarctica	2079
+      - Micronesia	1550
+      - Korea, North	38
+![image](https://user-images.githubusercontent.com/57878434/175761771-1b683058-202c-472f-9f49-669770e0fc0a.png)
+
 
 

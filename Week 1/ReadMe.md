@@ -28,7 +28,9 @@ The data was sourced from COVID-19 Data Repository by the Center for Systems Sci
 When I loaded and applied the dataset into excel, I noticed that there was errors in my dates columns. This was how i resolved it
 - Click on the Data Tab 
 - Under the Data Tools pane, choose **Text to Columns**
-- The wizard would be launched, choose the file type as Delimited
+- The wizard would be launched, choose the file type as Delimited ==> Next
+- Choose the delimiter type (comma etc) ==> Next
+- In the Choose Column Data Format, choose Date and change the format to MDY ==> Finish
 
 # Data Transformation
 

@@ -37,6 +37,9 @@ When I loaded and applied the dataset into excel, I noticed that there was error
 - The Visualizations were done using the PivotCharts 
 
 ## Findings
+As at the time and data the analysis was done
+-- The total confirmed cases globally was ==> 152951111255
+![image](https://user-images.githubusercontent.com/57878434/175761573-656f41d5-f25c-4016-b331-eb5e224355b7.png)
 
 
 

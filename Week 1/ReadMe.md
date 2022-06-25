@@ -34,6 +34,8 @@ When I loaded and applied the dataset into excel, I noticed that there was error
 
 # Data Analysis and Visualization
 - The Analysis was done in Excel using Pivot Tables. This made the analysis much more easier and trends were able to be detected 
+![EXCEL PIVOTS](https://user-images.githubusercontent.com/57878434/175761881-b2b2aa65-f8ac-45d3-8c57-0b3a38267fa7.jpg)
+
 - The Visualizations were done using the PivotCharts 
 
 ## Findings

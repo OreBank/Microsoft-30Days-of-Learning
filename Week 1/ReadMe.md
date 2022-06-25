@@ -45,7 +45,7 @@ As at the time and data the analysis was done
 - The rate of death was ==> 1.75%
 ![image](https://user-images.githubusercontent.com/57878434/175761625-60b21bcf-31df-4d66-95c1-b4efdf9cddae.png)
 - The top 5 countries with highest confirmations of the virus were 
-  -Row Labels	Sum of Confirmed
+  - Row Labels	Sum of Confirmed
    - United Kingdom	5831089189
    - France	6496860328
    - Brazil	11996382875

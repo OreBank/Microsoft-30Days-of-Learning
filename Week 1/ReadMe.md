@@ -32,7 +32,11 @@ When I loaded and applied the dataset into excel, I noticed that there was error
 - Choose the delimiter type (comma etc) ==> Next
 - In the Choose Column Data Format, choose Date and change the format to MDY ==> Finish
 
-# Data Transformation
+# Data Analysis and Visualization
+- The Analysis was done in Excel using Pivot Tables. This made the analysis much more easier and trends were able to be detected 
+- The Visualizations were done using the PivotCharts 
+
+## Findings
 
 
 

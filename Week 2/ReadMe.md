@@ -12,7 +12,7 @@ The data was scrapped from the web using the URL: https://www.bankrate.com/retir
 - Insert the URL and click Ok
 - Use as anonymous and click Connect
 - Choose the desired table and then click **Transform** button to transform the data
-*NB:* Table chosen in our case is the Best State to retire table
+### *NB:* Table chosen in our case is the Best State to retire table
 # DATA CLEANING AND TRANSFORMATION
 
 # DATA ANALYSIS AND VISUALISATION

@@ -64,5 +64,9 @@ As at the time and data the analysis was done
       - Korea, North	38
 ![image](https://user-images.githubusercontent.com/57878434/175761771-1b683058-202c-472f-9f49-669770e0fc0a.png)
 
+# Final Visuzaliation
+Here is the final visualization 
+[covid exce dashboard.pdf](https://github.com/OreBank/Microsoft-30Days-of-Learning/files/8986630/covid.exce.dashboard.pdf)
+
 
 

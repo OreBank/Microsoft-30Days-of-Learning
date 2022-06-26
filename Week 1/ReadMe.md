@@ -1,5 +1,5 @@
 # Project Name
-Analysing the Covid-19 data
+**Analysing the Covid-19 data with Microsoft Excel**
 
 # Project Objectives
 - To learn how to scrap data from web using **Microsoft Excel**

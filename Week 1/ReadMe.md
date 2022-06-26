@@ -1,11 +1,11 @@
-# Project Name
+# PROJECT NAME
 **Analysing the Covid-19 data with Microsoft Excel**
 
-# Project Objectives
+# PROJECT OBJECTIVES
 - To learn how to scrap data from web using **Microsoft Excel**
 - To create a visualization dashboard using **Microsoft Excel**
 
-# Data Sourcing
+# DATA SOURCING
 The data was sourced from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 **Link:** https://aka.ms/30DLCOVID19GitHubData
 
@@ -16,7 +16,7 @@ The data was sourced from COVID-19 Data Repository by the Center for Systems Sci
 4. In the new dialogue box, click connect to use the data Anonymously
 5. Then, choose Load(to load directly to excel without cleaning or transforming) or Transform (to load to the power query for better cleaning, transformation and editings) as required
 
-# Data Cleaning and Transformation
+# DATA CLEANING AND TRANSFORMATION
 - The data was transformed using Power Query
 - Preliminary data cleaning steps were done
   - Promoting headers
@@ -32,7 +32,7 @@ When I loaded and applied the dataset into excel, I noticed that there was error
 - Choose the delimiter type (comma etc) ==> Next
 - In the Choose Column Data Format, choose Date and change the format to MDY ==> Finish
 
-# Data Analysis and Visualization
+# DATA ANALYSIS AND VISUALIZATION
 - The Analysis was done in Excel using Pivot Tables. This made the analysis much more easier and trends were able to be detected 
 ![EXCEL PIVOTS](https://user-images.githubusercontent.com/57878434/175761881-b2b2aa65-f8ac-45d3-8c57-0b3a38267fa7.jpg)
 
@@ -64,7 +64,7 @@ As at the time and data the analysis was done
       - Korea, North	38
 ![image](https://user-images.githubusercontent.com/57878434/175761771-1b683058-202c-472f-9f49-669770e0fc0a.png)
 
-# Final Visuzaliation
+# FINAL VISUALIAZTION
 Here is the final visualization 
 [covid exce dashboard.pdf](https://github.com/OreBank/Microsoft-30Days-of-Learning/files/8986630/covid.exce.dashboard.pdf)
 
